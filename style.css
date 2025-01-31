@@ -1,0 +1,9 @@
+.hero{background-image: url(wave.jpg);
+height:100vh; padding-top: 150px;}
+
+.me{border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    border: 4px solid rgb(249, 195, 242);}
+
+.two{background-image: url(fea.jpg);}
